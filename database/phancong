@@ -1,0 +1,18 @@
+Validation với regex khi thêm mới, update hoặc tìm kiếm(Phân công ai thì tự làm)
+Bán hàng: Thanh Tuyền
+	- Chọn khuyến mãi đang được áp dụng(EndDate == null)
+
+Sản phẩm: Minh hải
+	- Có thể chọn thể loại để chỉnh sửa hoặc thêm mới(tên thể loại)
+
+Hóa đơn(Thanh Tuyền), Phiếu nhập(Huỳnh thư): Hiển thị tên: nhân viên, khuyễn mãi, khách hàng, nhà cung cấp
+
+Khách hàng(Đôn Chủng)
+	- Tạo jcomboxbox cho Trạng thái(1: Đã nghĩ, 2: Còn làm)
+
+Đăng nhập:(Đôn chủng)
+	- Chỉ cho phép nhân viên đang làm login vào hệ thống(status = 1)
+
+Lưu ý: Không được xóa hàm và chỉ được viết thêm phương thức cho yêu cầu, Kiểm tra xem trong service đã tồn tại phương thức đó chưa
+Ngày bắt đầu(27/4/2023)
+Ngày kết thúc(2/5/2023)
